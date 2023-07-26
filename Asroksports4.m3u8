@@ -1,0 +1,15 @@
+#EXTM3U #EXT-X-TARGETDURATION:5 
+#EXT-X-VERSION:3 #EXT-X-MEDIA-SEQUENCE:29759 
+#EXT-X-PROGRAM-DATE-TIME:2023-07-26T19:40:18Z 
+#EXTINF:4.000, 
+https://daddylive.herokuapp.com/api.php?url=https://ddy1.cdndac.lol/ddy1/premium126/2023/07/26/19/40/18-04000.ts 
+#EXTINF:4.144, 
+https://daddylive.herokuapp.com/api.php?url=https://ddy1.cdndac.lol/ddy1/premium126/2023/07/26/19/40/22-04144.ts 
+#EXTINF:4.000, 
+https://daddylive.herokuapp.com/api.php?url=https://ddy1.cdndac.lol/ddy1/premium126/2023/07/26/19/40/27-04000.ts 
+#EXTINF:4.000, 
+https://daddylive.herokuapp.com/api.php?url=https://ddy1.cdndac.lol/ddy1/premium126/2023/07/26/19/40/31-04000.ts 
+#EXTINF:4.144, 
+https://daddylive.herokuapp.com/api.php?url=https://ddy1.cdndac.lol/ddy1/premium126/2023/07/26/19/40/35-04144.ts 
+#EXTINF:4.000, 
+https://daddylive.herokuapp.com/api.php?url=https://ddy1.cdndac.lol/ddy1/premium126/2023/07/26/19/40/39-04000.t
